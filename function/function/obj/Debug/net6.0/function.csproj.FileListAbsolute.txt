@@ -1,0 +1,15 @@
+C:\RFP\function\function\obj\Debug\net6.0\function.csproj.AssemblyReference.cache
+C:\RFP\function\function\obj\Debug\net6.0\function.GeneratedMSBuildEditorConfig.editorconfig
+C:\RFP\function\function\obj\Debug\net6.0\function.AssemblyInfoInputs.cache
+C:\RFP\function\function\obj\Debug\net6.0\function.AssemblyInfo.cs
+C:\RFP\function\function\obj\Debug\net6.0\function.csproj.CoreCompileInputs.cache
+C:\RFP\function\function\bin\Debug\net6.0\function.exe
+C:\RFP\function\function\bin\Debug\net6.0\function.deps.json
+C:\RFP\function\function\bin\Debug\net6.0\function.runtimeconfig.json
+C:\RFP\function\function\bin\Debug\net6.0\function.dll
+C:\RFP\function\function\bin\Debug\net6.0\function.pdb
+C:\RFP\function\function\obj\Debug\net6.0\function.dll
+C:\RFP\function\function\obj\Debug\net6.0\refint\function.dll
+C:\RFP\function\function\obj\Debug\net6.0\function.pdb
+C:\RFP\function\function\obj\Debug\net6.0\function.genruntimeconfig.cache
+C:\RFP\function\function\obj\Debug\net6.0\ref\function.dll
